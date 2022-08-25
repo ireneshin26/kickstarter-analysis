@@ -10,7 +10,8 @@ Louise's play Fever came close to its fundraising goal in a short amount of time
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/110875578/184798945-4b40a3da-0653-4fbc-8bfb-dbf96a3fd294.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/110875578/184798953-a5bffc3f-48f5-4fa8-a6e8-6ff1369bade3.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/110875578/186574386-04984cad-e71e-447c-944e-e6cb0c99589f.png)
+
 
 ### Challenges and Difficulties Encountered
 When analyzing the data for this exercise, it asked us to calculate the percentage of successful, cancelled, and failed theater projects and filtering out any that were live. There were 19 projects with the status of live so when following the instructions, we had to make sure that we excluded this number. 
